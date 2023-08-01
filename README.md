@@ -1,6 +1,8 @@
 # Variables in JavaScript
 
-### Declaring A Variable
+### Background
+
+##### Declaring A Variable
 
 - Declaring a variable in JavaScript is the process of creating a container to store data. Variables allow you to hold values of various types, such as numbers, strings, booleans, arrays, objects, and more. They provide a way to store data temporarily in memory so that you can use and manipulate it later in your code.
 
@@ -11,7 +13,7 @@ let userAge;
 const daysOfTheWeek;
 ```
 
-### Assigning A Variable
+##### Assigning A Variable
 
 - Assigning a variable in JavaScript means giving it a value. Once you declare a variable, you can assign a specific value to it or update its value at any time during the execution of your code.
 
