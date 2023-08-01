@@ -25,7 +25,7 @@
 
 // Create two variables, a and b, and assign them any values.
 
-// Swap the values of a and b without using a third variable. 
+// Swap the values of a and b using reassignment. (Don't change the previous lines of code!)
 
 //Log the values of a and b before and after the swap.
 
@@ -39,9 +39,4 @@
 
 // Then, attempt to reassign a new value to PI. 
 
-// Observe the error in the console and write a comment explaining why you can't reassign a constant.
-
-
-
-
-
+// Observe the error in the console and write a comment here explaining why you can't reassign a constant.
