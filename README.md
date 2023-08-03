@@ -53,7 +53,7 @@ const daysInWeek = 7;
 ##### Prep
 
 1. Connect your js file to your HTML file
-2. Open your code in the browser and open your console
+2. Open your code in the browser (directly or via Live Server) and open your console
 
 ##### Exercise 1
 

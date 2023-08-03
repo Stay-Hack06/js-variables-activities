@@ -25,9 +25,9 @@
 
 // Create two variables, a and b, and assign them any values.
 
-// Swap the values of a and b using reassignment. (Don't change the previous lines of code!)
+// Swap the values of a and b. You may use a third variable to hold a value so you don't overwrite it. Use reassignment—don't change the previous lines of code!
 
-//Log the values of a and b before and after the swap.
+// Log the values of a and b before and after the swap.
 
 
 
