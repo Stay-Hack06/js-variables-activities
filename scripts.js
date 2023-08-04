@@ -3,6 +3,8 @@
 // Declare Variables Here
 
 
+
+
 let totalSales;
 let totalExpense;
 let totalProfit;
@@ -30,6 +32,7 @@ let age = '33';
 
 
 // Log the variables' values to the console.
+
 
 console.log(firstName+' '+lastName+' '+age);
 
