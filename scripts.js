@@ -15,11 +15,8 @@ let abandanctCart;
 let status;
 let spent;
 let Return;
-let costConversion
-let costClick
-let CTR;
-let ageGroup
-let location
+let costConversion;
+let costClick;
 
 
 
